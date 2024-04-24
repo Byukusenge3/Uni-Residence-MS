@@ -52,5 +52,5 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## Feedback
 
-Your feedback is valuable! If you encounter any issues, have suggestions for improvements, or want to contribute to the project, please [submit an issue](#) or [open a pull request](#). We appreciate your input!
+Your feedback is valuable! If you encounter any issues, have suggestions for improvements, or want to contribute to the project, please [submit an issue](https://github.com/Byukusenge3/Uni-Residence-MS/issues) or [open a pull request](https://github.com/Byukusenge3/Uni-Residence-MS/pulls). We appreciate your input!
 
