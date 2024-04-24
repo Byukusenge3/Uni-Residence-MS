@@ -20,7 +20,7 @@ The University Residence Management System is a console application developed in
 
 ## Installation
 
-1. Download the [`UniversityResidenceManagementSystem.zip`](INSERT_GOOGLE_DRIVE_LINK_HERE) file from Google Drive.
+1. Download the [`UniversityResidenceManagementSystem.zip`](https://drive.google.com/file/d/1ri-WsNk24beGhg41ZVK9cAQlCe8zoYdX/view?usp=sharing) file from Google Drive.
 2. Extract the contents of the ZIP archive to your desired location.
 3. Open a terminal or command prompt.
 4. Navigate to the directory where you extracted the files.
