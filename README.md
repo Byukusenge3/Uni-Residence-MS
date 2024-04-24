@@ -22,13 +22,11 @@ The University Residence Management System is a console application developed in
 
 1. Download the [`UniversityResidenceManagementSystem.zip by clicking here`](https://drive.usercontent.google.com/download?id=1ri-WsNk24beGhg41ZVK9cAQlCe8zoYdX&export=download&authuser=5&confirm=t&uuid=98dd5f55-0cd8-4841-95b3-40380dc3e187&at=APZUnTXmuhLOxGQRZ81SoNg0K3fh:1713967627485).
 2. Extract the contents of the ZIP archive to your desired location.
-3. Open a terminal or command prompt.
+3. Open a terminal or command prompt, or double click on the `UniversityResidenceManagementSystem.exe` file.
 4. Navigate to the directory where you extracted the files.
 5. Run the `UniversityResidenceManagementSystem.exe` executable.
 
-**Note:** If you encounter a security prompt saying "Microsoft Defender SmartScreen prevented an unrecognized app from starting. Running this app might put your PC at risk.", follow these additional steps:
-   - Once the message is displayed, click on "More info".
-   - Then, click on "Run anyway" to proceed with running the application.
+**Note:** Alternatively, once you have extracted the files, locate `UniversityResidenceManagementSystem.exe` and double click on it. If you encounter the message "Microsoft Defender SmartScreen prevented an unrecognized app from starting. Running this app might put your PC at risk," click on "More info" and then click on "Run anyway."
 
 
 ## Usage
