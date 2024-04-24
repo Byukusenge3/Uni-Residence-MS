@@ -40,6 +40,7 @@ Upon running the application, a menu-driven interface will be displayed. Choose 
 Here are some screenshots of the University Residence Management System:
 
 1. ![Screenshot 1](https://github.com/Byukusenge3/Uni-Residence-MS/blob/master/Screenshoots/Screenshot%202024-04-24%20155028.png)
+
    Description: Available residencies
 
 2. ![Screenshot 2](https://github.com/Byukusenge3/Uni-Residence-MS/blob/master/Screenshoots/Screenshot%202024-04-24%20155118.png)
