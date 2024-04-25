@@ -159,7 +159,7 @@ class Program
 
         manager.RemoveStudentFromResidence(student, residence);
     }
-
+  //to make request
     static void SubmitMaintenanceRequest(ResidenceManager manager)
     {
         Console.Write("Enter maintenance request description: ");
