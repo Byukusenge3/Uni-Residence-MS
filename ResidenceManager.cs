@@ -108,7 +108,7 @@ public class ResidenceManager
         }
     }
 
-    // Method to display all registered students
+    // to display all registered students
     public void DisplayAllStudents()
     {
         Console.WriteLine("Registered Students:");
