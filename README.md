@@ -64,7 +64,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 3. Make your changes and ensure all tests pass.
 4. Commit your changes with descriptive commit messages.
 5. Push your changes to your fork.
-6. Submit a pull request to the main repository.
+6. Submit a pull  request to the main repository.
 
 ## Feedback
 
