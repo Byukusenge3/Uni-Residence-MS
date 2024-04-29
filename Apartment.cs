@@ -4,7 +4,7 @@ public class Apartment : Residence
 
     public Apartment(string residenceID, int numberOfBedrooms) : base(residenceID)
     {
-        NumberOfBedrooms = numberOfBedrooms;
+        NumberOfBedrooms = number Of Bedrooms;
     }
 
     public override decimal CalculateMonthlyRent()
