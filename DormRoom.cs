@@ -10,6 +10,6 @@ public class DormRoom : Residence
     public override decimal CalculateMonthlyRent()
     {
         // Implement rent calculation based on room size
-        return RoomSize * 100; // Assuming $100 per unit of room size
+        return RoomSize * 100; // assuming $100 per unit of room size
     }
 }
