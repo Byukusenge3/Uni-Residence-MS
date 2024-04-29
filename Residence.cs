@@ -1,4 +1,4 @@
-public abstract class Residence
+public abstract class  Residence
 {
     public string ResidenceID { get; set; }
     public bool IsOccupied { get; set; }
