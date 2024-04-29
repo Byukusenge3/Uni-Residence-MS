@@ -8,6 +8,6 @@ public class MaintenanceRequest
 
     public MaintenanceRequest(string description)
     {
-        Description = description;
+        Description=description;
     }
 }
